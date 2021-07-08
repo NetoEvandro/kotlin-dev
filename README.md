@@ -6,7 +6,7 @@
 
 Hello, World! Bem vindo ao meu repositório de aprendizado.
 
-- calculadora.kt
+- calculadora
 
   
   
