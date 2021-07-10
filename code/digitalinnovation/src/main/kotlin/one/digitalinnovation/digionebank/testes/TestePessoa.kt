@@ -10,8 +10,4 @@ fun main() {
     println("Nome: " + evandro.nome)
     println("Cpf: " + evandro.cpf)
 
-    val joao = Funcionario("Joao", "111.222.333-44", BigDecimal.valueOf(2000.0))
-    println(joao.nome)
-    println(joao.cpf)
-    println(joao.salario)
 }
