@@ -8,6 +8,8 @@ Hello, World! Bem vindo ao meu repositório de aprendizado.
 
 - Calculadora
 
+- Curso básico Kotlin
+
 - Banco DIO
 
   
