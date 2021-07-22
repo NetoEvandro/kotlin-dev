@@ -8,6 +8,7 @@ fun main() {
     var n2: Float = 0f
 
     val input = Scanner(System.`in`)
+    println("|---------- BEM VINDO! ----------|")
     println("|--------------------------------|")
     println("|------ CALCULADORA KOTLIN ------|")
     println("| 1- ADIÇÃO ---------------------|")
