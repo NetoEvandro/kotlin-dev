@@ -6,9 +6,9 @@
 
 Hello, World! Bem vindo ao meu repositório de aprendizado.
 
-- Calculadora
+- calculadora
 
-- Banco DIO
+- digitalinnovation
 
   
   
