@@ -7,10 +7,20 @@ fun main() {
 
     val repositorio = Repositorio<Funcionario>()
 
+    //Adicionando Funcionario dentro do repositorio map
     repositorio.create(joao.nome, joao)
     repositorio.create(pedro.nome, pedro)
     repositorio.create(maria.nome, maria)
 
-    //Busca pelo ID
+    //Buscando pelo ID = nome
     println(repositorio.findById(joao.nome))
+
+    //Listando todos os itens do map
+    println("----- ALL -----")
+    repositorio.findAll().forEach{ println(it)}
+
+    //Excluindo pelo Id = nome
+    println("----- DEL -----")
+    repositorio.delete(maria.nome)
+    repositorio.findAll().forEach { println(it) }
 }
