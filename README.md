@@ -12,8 +12,6 @@ Hello, World! Bem vindo ao meu repositório de aprendizado.
 
 - digitalinnovation
 
-- teste GITHUB
+  
 
-  
-  
   
