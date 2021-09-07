@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HiMemory</string>
+    <string name="button_text_remove">REMOVER</string>
+    <string name="rem_title_hint">Título</string>
+    <string name="rem_description_hint">Descrição</string>
+</resources>
